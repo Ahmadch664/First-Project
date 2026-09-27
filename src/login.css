@@ -1,0 +1,128 @@
+.Maibbody_{
+    display: flex;
+    justify-content: center;
+    background-image: url(assets/downloadnew.jfif);
+}
+.Body_{
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    width: 400px;
+    height: 581px;
+    background-color: lightgray;
+    margin-top: 60px;
+    gap: 10px;
+    border-radius: 7px;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.664);
+    align-items: center;
+    padding-bottom: 0;
+    
+}
+.input_login{
+   width: 60%;
+  padding: 10px;
+  margin: 0px;
+  border: none;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+.btn{
+    background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 90%;
+
+}
+
+
+.Name_{
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(77, 77, 77);
+}
+.Avaterimg-{
+    width: 40%;
+    border-radius: 50%;
+    
+}
+.imgcontainer{
+    text-align: center;
+    margin: 0;
+    
+}
+.Labelemail-{
+    margin-right: 284px;
+}
+.Labelpassword-{
+    margin-right: 260px;
+}
+.forpassword-{
+    display: flex;
+    
+    
+    gap: 10px;
+}
+.checkbox-{
+    margin-left: 5px;
+}
+.conrem-{
+    margin-right: 28px;
+}
+.emailicon-{
+  margin-top: 3px;  
+  height: 70%;
+    width: 30px;
+}
+.input-icon{
+    display: flex;
+    width: 530px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+    
+}
+.passwordicon{
+ margin-top: 3px;  
+  height: 70%;
+    width: 30px;
+}
+.passwordfor-{
+    margin-right: 0px;
+    display: flex;
+}
+.icongoole-{
+     margin-top: 3px;  
+  height: 30px;
+    width: 30px;
+}
+.iconfacebook-{
+    margin-top: 3px;  
+  height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: white;
+    color: blue;
+}
+    
+.reacticon-{
+    display: flex;
+     gap: 20px;
+
+}
+.iconX{
+     margin-top: 3px;  
+  height: 30px;
+    width: 30px;
+    
+}
+.forlink_{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+@media screen and (min-width: 768px) {
+
+}

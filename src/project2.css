@@ -1,0 +1,263 @@
+.Main_card{
+    height: 1800px;
+    width: 90%;
+    background-color: #fff;
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.849);
+    border-radius: 10px;
+}
+.project2header{
+    height: 100px;
+    width: 100%;
+    background-color: #000000;
+    border-radius: 10px 10px 0px 0px;
+}
+.project2bottomheader{
+    height: 300px;
+    width: 100%;
+    background-color: #000000;
+    margin-top:20%;
+    border-radius: 0px 0px 10px 10px;
+    display: flex;
+}
+.project2headertext{
+    color: white;
+    padding-top: 3%;
+    padding-left: 5%;
+    display: flex;
+    gap: 10px;
+}
+.project2headertext2{
+    margin-top: 2px;
+}
+.project2links{
+    display: flex;
+    gap: 20px;
+}
+.project2headerbutton{
+    height: 40px;
+    width: 100px;
+    background-color: #4C5FD5;
+    color: white;
+    font-size: large;
+    border-radius: 10px;
+    margin-left: 600px;
+    border: 1px solid white;
+    box-shadow: 2px 4px 10px black;
+}
+.project2headerbutton:hover{
+    background-color: #000000;
+    text-decoration: underline;
+}
+.project2headerbutton2{
+    height: 40px;
+    width: 120px;
+    background-color: #4C5FD5;
+    color: white;
+    font-size: large;
+    border-radius: 10px;
+    border: 1px solid white;
+    
+}
+.project2headerbutton2:hover{
+    background-color: #000000;
+    text-decoration: underline;
+}
+.project2header2{
+    height: 300px;
+    width: 100%;
+    background-color: #dadbf1;
+    border-bottom: 2px solid #e2e2e2;
+}
+.project2headertext3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+}
+.project2headertext4{
+    color: rgb(63, 62, 62);
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.project2header2input{
+    height: 50px;
+    width: 40%;
+    margin-left: 30%;
+    padding-left: 20px;
+    border: none;
+}
+.project2bottomheadertext{
+    
+    color: white;
+    background-color: #000000;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.project2bottomheaderbutton{
+    color: white;
+    background-color: #000000;
+    border: none;
+    padding-left: 100px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.project2bottomheaderbutton:hover{
+    text-decoration: underline;
+}
+
+.project2bottomheadertext2{
+    padding-left: 100px;
+    padding-top: 50px;
+    color: white;
+}
+.project2bottomheaderbutton2{
+    color: white;
+    background-color: #000000;
+    border: none;
+    padding-left: 100px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.project2bottomheaderbutton2:hover{
+    text-decoration: underline;
+}
+
+.project2bottomheadertext3{
+    padding-left: 100px;
+    padding-top: 50px;
+    color: white;
+}
+.project2bottomheaderbutton3{
+    color: white;
+    background-color: #000000;
+    border: none;
+    padding-left: 100px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.project2bottomheaderbutton3:hover{
+    text-decoration: underline;
+}
+.project2bottomheadertextintro{
+    color: white;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    flex-direction: column;
+    padding-left: 300px;
+    padding-bottom: 50px;
+}
+.project2bottomheadertextintro2{
+    padding-right: 80px;
+}
+.project2bottomheadertextintro3{
+    padding-right: 100px;
+}
+.project2bottomheadertextintro-img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-right: 65px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.project2bottomheadertextintro-img:hover{
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+}
+.Project2practicetext{
+    width: 350px;
+    color: rgb(62,62,62);
+ 
+}
+.Project2practicetext2{
+    
+    color: black;
+    
+}
+.Project2practiceicon{
+    height: 100px;
+    width: 100px;
+    color: brown;
+    margin-top: 50px;
+
+}
+.Project2rpaticecss2{
+    
+    color: rgb(62,62,62);
+
+}
+.Project2practiceicon2{
+    
+    height: 100px;
+    width: 100px;
+    color: brown;
+}
+.Project2css{
+        display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+    gap: 7px;
+}
+.project2htmlcssmain{
+    display: flex;
+}
+.project2practiceicon{
+    color: brown;
+    font-size:larger;
+}
+.project2js{
+        display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 7px;
+    margin-top: 50px;
+}
+.project2jstext{
+     width: 450px;
+    color: rgb(62,62,62);
+}
+.project2jsicon{
+    height: 80px;
+    width: 80px;
+    color: brown;
+}
+.project2reacttext{
+    width: 580px;
+    color: rgb(62,62,62);
+}
+.project2reacticon{
+    height: 80px;
+    width: 80px;
+    color: brown;
+    
+}
+.project2reactmain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 7px;
+}
+.Project2html{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.ReactProjectButton{
+    border: none;
+}

@@ -1,0 +1,48 @@
+.Product_list_table table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+.Product_list_header{
+    background-color: #ccc;
+}
+.Product_List_Rows th{
+    padding: 10px;
+    text-transform: capitalize;
+}
+.Product_list_data{
+    background-color: #f5f5f5;
+}
+.Product_list_data td{
+    padding: 10px;
+}
+.products_list_images{
+    width: 52px;
+    height: 52px;
+    overflow: hidden;
+}
+.products_list_images img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.Product_list_data:nth-of-type(even){
+    background-color: rgba(145, 140, 140, 0.219);
+}
+.Product-list-actions{
+    font-size: 22px;
+    color: gray;
+    cursor: pointer;
+}
+.Product-list-actions:hover{
+    color: red;
+}
+.Product-list-actions-1{
+        font-size: 22px;
+    color: gray;
+    cursor: pointer;
+}
+
+.Product-list-actions-1:hover{
+    color: blue;
+}

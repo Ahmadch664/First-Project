@@ -1,0 +1,84 @@
+
+.main-box{
+    height: 530px;
+    width: 500px;
+    background-color: rgba(128, 128, 128, 0.5);
+    
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+    border-radius: 0 7px 7px 0;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.678);
+} 
+.input_contect{
+    width: 400px;
+    height: 50px;
+    margin-top: 0px;
+    margin-left: 10%;
+    padding: 7px;
+}
+.name_contect{
+    padding: 7px;
+    margin-left: 40%;
+}
+.button_contect{
+    background-color: #45a049;
+    color: white;
+    width: 75px;
+    height: 40px;
+    margin-left: 10%;
+    border-radius: 7px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.text-{
+    margin-left: 10%;
+    width: 400px;
+    height: 150px;
+    resize: none;
+    padding: 10px;
+}
+.file-{
+    margin-left: 10%;
+}
+.contactlink{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.Main_main_box{
+    height: 641px;
+    width: 100%;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.main-contect-box-2{
+    height: 530px;
+    width: 300px;
+    background-color:  rgb(24, 2, 104);
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.678);
+    border-radius: 7px 0 0 7px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+.main-contect-box-2-text-1{
+    color: lightskyblue;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

@@ -1,0 +1,179 @@
+.main-main_{
+    max-height: 100%;
+    max-width: 100%;
+    background-color: rgba(128, 128, 128, 0.158);
+}
+.name_product{
+    color: rgb(2, 14, 54);
+    text-align: center;
+}
+.main-cir{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    padding-bottom: 5px;
+}
+.cir1{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: black;
+}
+.cir2{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: blue;
+}
+.cir3{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: brown;
+}
+.main-pagedaraz_{
+    height: 230px;
+    width: 180px;
+    background-color: #fff;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 2px;
+    border-bottom: 1px solid #e2e2e2;
+    border-right: 1px solid #e2e2e2;
+}
+.main-pagedaraz_:hover{
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.267);
+}
+
+.detail-{
+    text-align: center;
+    height: 150px;
+    color: rgb(62,62,62);
+    line-height: 1.6;
+}
+.prize-{
+    text-align: center;
+    color:#a53509;
+    font-size: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+}
+.disprize_{
+    font-size: 15px;
+    display: flex;
+    gap: 7px;
+    padding-left: 30%;
+}
+
+.btn-{
+    height: 30px;
+    width: 80px;
+    margin-left: 28%;
+    cursor: pointer;
+}
+.project2{
+    display: flex;
+    flex-wrap: wrap;
+}
+.product-image{
+    height: 180%;
+    width: 100%;
+    overflow:hidden;
+}
+.product-image img{
+    height: 100%;
+    width: 100%;
+    border-radius: 2px;
+}
+.secheader_{
+    height: 60px;
+    width: 100%;
+    background-color: gray;
+    display: flex;
+    margin-top: 20px;
+}
+.newbutton_{
+    margin-left: 1000px;
+    height: 40px;
+    width: 140px;
+    background-color: #fff;
+    border: solid 1px #a53509;
+    margin-top: 10px;
+    color: #a53509;
+    text-transform: capitalize;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.newtext_{
+    margin-left: 60px;
+    margin-top: 22px;
+    text-transform: capitalize;
+    color: #a53509;
+    
+}
+.cutprize_{
+    font-size: 15px;
+    text-decoration: line-through;   
+}
+.catagry_{
+    background-color: #fff;
+    border-bottom: 1px solid #e2e2e2;
+    border-right: 1px solid #e2e2e2;
+    box-sizing: border-box;
+    height: 148.5px;
+    padding-top: 16px;
+    width: 12.5%;
+    margin-left: 0px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+.catagry_:hover{
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.267);
+}
+.catimg-{
+    height: 100px;
+    width: 100px;
+    margin-left: 20%;
+    
+    
+}
+.catlabel-{
+        color: #424242;
+    font-size: 22px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-left: 0px;
+    display: flex;
+    justify-content: start;
+    text-align: start;
+    margin-top: 50px;
+    margin-left: 4%;
+}
+.ctaback-{
+    display: flex;
+    margin-left: 4%;
+}
+.catnames-{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.card-daraz{
+    margin-left: 4%;
+    display: flex;
+    flex-wrap: wrap;
+
+}

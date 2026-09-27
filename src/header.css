@@ -1,0 +1,56 @@
+.main_{
+width: 100%;
+height: 60px;
+background-color: orangered;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.header_{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+.header_:hover{
+    text-decoration: underline;
+}
+.inputheader-{
+    height: 52%;
+    width: 40%;
+    padding-left: 10px;
+    margin-left: 20px;
+    border: none;
+}
+.label_{
+    color: white;
+
+}
+.header-logo img{
+    height: 40px;
+    width: 150px;
+    margin-top: 5px;
+
+}
+.icon-{
+    height: 53%;
+    width: 45px;
+    background-color: rgba(255, 255, 255, 0.432);
+    color: orangered;
+    cursor: pointer;
+    padding: 8px;
+}
+.pages-{
+    display: flex;
+    gap: 20px;
+    padding-left: 50px;
+    padding-right: 7px;
+}
+.cart-{
+    height: 56%;
+    width: 43px;
+    cursor: pointer;
+    padding: 5px;
+    margin-left: 15px;
+}
